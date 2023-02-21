@@ -67,9 +67,7 @@ export const Form: FC = () => {
           required
         />
       </label>
-      {/* <button className={css.button} type="submit">
-        add contact
-      </button> */}
+
       <Button label="add contact" />
     </form>
   );
