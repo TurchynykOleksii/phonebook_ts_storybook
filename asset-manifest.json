@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phonebook_ts_storybook/static/css/main.3bc0a43a.css",
+    "main.js": "/phonebook_ts_storybook/static/js/main.9e8bd8ba.js",
+    "index.html": "/phonebook_ts_storybook/index.html",
+    "main.3bc0a43a.css.map": "/phonebook_ts_storybook/static/css/main.3bc0a43a.css.map",
+    "main.9e8bd8ba.js.map": "/phonebook_ts_storybook/static/js/main.9e8bd8ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bc0a43a.css",
+    "static/js/main.9e8bd8ba.js"
+  ]
+}
