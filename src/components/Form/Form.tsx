@@ -70,7 +70,7 @@ export const Form: FC = () => {
       {/* <button className={css.button} type="submit">
         add contact
       </button> */}
-      <Button children="add contact" />
+      <Button label="add contact" />
     </form>
   );
 };
